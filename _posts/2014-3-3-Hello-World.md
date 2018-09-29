@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction
-published: true
+published: false
 ---
 ## Welcome to the blog
 
