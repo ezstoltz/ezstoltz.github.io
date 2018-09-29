@@ -203,6 +203,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   color: $gray;
+  font-family: $SansSerif;
   font-size: 16px;
 
   @include mobile {
@@ -257,6 +258,7 @@ nav {
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
+    font-family: $SansSerif;
     font-size: 22px;
     font-style: italic;
   }
