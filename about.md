@@ -2,14 +2,16 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Welcome to the blog!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Stay tuned to follow the latest trends in tech, startups, and VC. We cover the top trends happening between the coasts.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Twitter](twitter.com/ezstoltz)
+[Github](github.com/ezstoltz)
